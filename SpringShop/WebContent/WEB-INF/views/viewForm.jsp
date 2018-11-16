@@ -52,7 +52,7 @@
 </head>
 
 <body>
-FORMULARIO ARTÍCULOS
+<span class="titulo">FORMULARIO ARTÍCULOS</span>
 
 <form:form method="POST" modelAttribute="articulo">
 	<br/><form:label path="marca" cssClass="col1">Marca</form:label> <form:input path="marca" cssClass="col2" cssErrorClass="col2 inputError"/> <form:errors path="marca" cssClass="messageError" />
