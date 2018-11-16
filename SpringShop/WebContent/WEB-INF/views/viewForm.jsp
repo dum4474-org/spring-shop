@@ -13,6 +13,19 @@
 	
 	<style type="text/css">
 	
+		body {
+			font-family: Arial;
+		}
+		
+		.titulo {
+			font-weight: bold;
+			padding: 5px;
+			/*background-color: #9c0;*/
+			border-color: #9c0;
+			border-style: solid;
+			border-width: 2px;
+		}
+		
 		.col1 {
 			display: inline-block;
 			width: 75px;
@@ -52,7 +65,8 @@
 </head>
 
 <body>
-FORMULARIO ARTÍCULOS
+
+<span class="titulo">FORMULARIO ARTÍCULOS</span>
 
 <form:form method="POST" modelAttribute="articulo">
 	<br/><form:label path="marca" cssClass="col1">Marca</form:label> <form:input path="marca" cssClass="col2" cssErrorClass="col2 inputError"/> <form:errors path="marca" cssClass="messageError" />
