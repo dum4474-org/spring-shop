@@ -9,7 +9,7 @@
 
 	<meta charset="UTF-8">
 
-	<title>Uno</title>
+	<title>SpringShop Form</title>
 	
 	<style type="text/css">
 	
