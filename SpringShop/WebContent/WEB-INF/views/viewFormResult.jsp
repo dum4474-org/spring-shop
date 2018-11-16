@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Uno</title>
+<title>SpringShop FormResult</title>
 </head>
 <body>
 Resultado formulario Artículo
