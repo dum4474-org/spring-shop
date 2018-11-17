@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>vista 3</title>
+<title>3 remoto</title>
 </head>
 <body>
 <br/> - ${uno}
