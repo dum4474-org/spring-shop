@@ -15,6 +15,7 @@
 	
 		body {
 			font-family: Arial;
+			line-height: normal;
 		}
 		
 		.titulo {
