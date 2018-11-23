@@ -13,9 +13,5 @@
 <br/> - ${cuatro}
 <br/><a href="/tienda/ej1/uno">Ir a uno</a>
 </body>
-<!-- Cambio hecho por danium4474 desde github -->
 </html>
-<!-- Cambio en local -->
-<!-- Cambio desde github por danium4475 -->
-<!-- Cambio hecho en local 1 -->
-<!-- Cambio hecho en local 11 -->
+<!-- Limpiado desde local - 4 -->
