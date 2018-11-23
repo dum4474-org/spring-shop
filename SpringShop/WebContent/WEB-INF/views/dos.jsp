@@ -16,6 +16,4 @@
 </html>
 <!-- Limpiado desde local - 2 -->
 <!-- Cambio remoto -->
-<<<<<<< HEAD
 <!-- Cambio local -->
-=======
