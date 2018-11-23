@@ -14,5 +14,8 @@
 <br/><a href="/tienda/ej1/tres">Ir a tres</a>
 </body>
 </html>
+<<<<<<< HEAD
 <!-- Cambio hecho en local -->
+=======
+>>>>>>> refs/remotes/origin/master
 <!-- Conflicto remoto -->
