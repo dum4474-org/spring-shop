@@ -15,3 +15,4 @@
 </body>
 </html>
 <!-- Cambio hecho en local -->
+<!-- Conflicto remoto -->
