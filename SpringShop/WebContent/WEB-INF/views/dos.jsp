@@ -18,3 +18,4 @@
 <!-- Cambio remoto -->
 <!-- Cambio local -->
 <!-- Cambio local X -->
+<!-- Cambio remoto X -->
