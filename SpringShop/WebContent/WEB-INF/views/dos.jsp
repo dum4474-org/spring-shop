@@ -19,3 +19,4 @@
 <!-- Cambio local -->
 <!-- Cambio local X -->
 <!-- Cambio remoto X -->
+<!-- Cambio remoto X2 -->
