@@ -14,10 +14,4 @@
 <br/><a href="/tienda/ej1/tres">Ir a tres</a>
 </body>
 </html>
-<!-- Limpiado desde local - 2 -->
-<!-- Cambio remoto -->
-<!-- Cambio local -->
-<!-- Cambio local X -->
-<!-- Cambio remoto X -->
-<!-- Cambio local X2 -->
-<!-- Cambio remoto X2 -->
+<!-- Limpiado desde remoto -->
