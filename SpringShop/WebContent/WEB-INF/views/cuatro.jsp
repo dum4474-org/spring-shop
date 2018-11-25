@@ -15,8 +15,8 @@
 </body>
 </html>
 
-<!--  Esto sólo está en la rama Branch002 -->
-<!--  Cambio en rama 2 desde local -->
-<!--  Cambio en rama 2 desde local 2 -->
-<!--  Cambio en rama 2 desde local 3 -->
+<!-- Esto sólo está en la rama Branch002 -->
+<!-- Cambio en rama 2 desde local -->
+<!-- Cambio en rama 2 desde local 2 -->
+<!-- Cambio en rama 2 desde local 3 -->
 <!-- Cambio en rama 002 desde github, danium4474 -->
